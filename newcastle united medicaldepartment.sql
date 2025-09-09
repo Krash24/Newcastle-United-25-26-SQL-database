@@ -1,0 +1,1 @@
+select * from medical_dep;
